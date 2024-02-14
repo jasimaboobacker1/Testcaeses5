@@ -1,0 +1,208 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar{
+    width: 100%;
+    height: 74px;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+}
+.menus,ul{
+    width: auto;
+    display: flex;
+}
+li{
+    margin-left: 15px;
+}
+
+.landing{
+    width: 100%;
+    height: 630px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('Assests/images/landing.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont{
+    width: 100%;
+    height: 630px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    background-color:rgba(7, 186, 246, 0.359);
+}
+
+.search{
+    width: 300px;
+    padding: 10px;
+    border: none;
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    font-size: 15px;
+}
+
+.subscribe{
+    width: 100px;
+    padding: 10px;
+    border: none;
+    background-color: black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    color: white;
+    font-size: 15px;
+}
+
+.discover{
+    width: 150px;
+    padding: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+.section{
+    width: 100%;
+    height: auto;
+    
+}
+.part{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   
+}
+.content{
+   
+    width: 600px;
+    height: 350px;
+    text-align: end; 
+    display: flex;
+    justify-content: end;
+    padding: 10px;
+}
+.cont-body{
+    width: 430px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   flex-direction: column;
+   padding: 10px;
+}
+.picture{
+   
+    width: 600px;
+    height: 350px; 
+    display: flex;
+    justify-content: start;
+    padding: 10px; 
+
+}
+.pic{
+    width: 600px;
+    height: 327px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   flex-direction: column;
+   padding: 10px;
+   background-image: url('Assests/images/marketing.png');
+   background-size: cover;
+
+}
+.corporatepic{
+    width: 600px;
+    height: 327px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   flex-direction: column;
+   padding: 10px;
+   background-image: url('Assests/images/corporate.png');
+   background-size: cover;
+
+}
+
+.industrialpic{
+    width: 600px;
+    height: 327px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   flex-direction: column;
+   padding: 10px;
+   background-image: url('Assests/images/indstry.png');
+   background-size: cover;
+
+}
+.govpic{
+    width: 600px;
+    height: 327px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   flex-direction: column;
+   padding: 10px;
+   background-image: url('Assests/images/government.png');
+   background-size: cover;
+
+}
+
+
+
+
+.picturesec{
+    width: 600px;
+    height: 350px; 
+    display: flex;
+    justify-content: end;
+    padding: 10px; 
+}
+
+.contentsec{
+ 
+    width: 600px;
+    height: 350px;
+    text-align: start; 
+    display: flex;
+    justify-content: start;
+    padding: 10px;
+
+}
+
+.section-2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 30px;
+    background-color:rgb(7, 186, 246)
+}
+
+.content2{
+    width: 1180px;
+    height: auto;
+
+}
+
+.input{
+    width: auto;
+    display: flex;
+
+}
